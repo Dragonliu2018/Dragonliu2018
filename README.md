@@ -49,11 +49,12 @@
   <img align="right" src="https://readmestats.999857.xyz/api?username=dragonliu2018&show_icons=true&locale=en" alt="Photo 2" style="display: inline-block; width: 50%;">
 </div>
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonliu2018&" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
+<div style="text-align: center;">
+<img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" style="display: inline-block; width: 22%;" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonliu2018&" style="display: inline-block; width: 50%;" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" style="display: inline-block; width: 22%;" />
+</div>
+        
 </td>
 </tr>
 
