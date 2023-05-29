@@ -26,15 +26,15 @@
   
 ### 🏢 Work Experience
 
-- []() &emsp; 📌 Todo
-  - 工作地点：
-  - 工作岗位：
-  - 工作内容：
+- [北京四维纵横数据技术有限公司](https://www.ymatrix.cn/) &emsp; 📌 2023-02 —— 至今
+  - 工作地点：北京
+  - 工作岗位：数据库内核开发实习生
+  - 工作内容：性能优化 && 向量化
 
-- []() &emsp; 📌 2021-09 —— 2022-11
-  - 工作地点：
-  - 工作岗位：
-  - 工作方向：
+- [华为南京研究所](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b) &emsp; 📌 2021-09 —— 2021-11
+  - 工作地点：南京
+  - 工作岗位：C++后端开发实习生
+  - 工作方向：代码覆盖率统计 && cleancode
 
 </td>
 </tr>
