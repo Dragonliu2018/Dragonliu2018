@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);Welcome%20to%20my%20Github!&center=true&size=27">
+</h1>
+
+
+
 ### Hi there 👋
 
 <!--
