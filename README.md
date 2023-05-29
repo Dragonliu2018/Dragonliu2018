@@ -43,12 +43,15 @@
     <td>
         
 ### 🎉 Github Actions
-<p><img align="left" src="https://readmestats.999857.xyz/api/top-langs?username=dragonliu2018&show_icons=true&locale=en&layout=compact" alt="dragonliu2018" /></p>
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=dragonliu2018&show_icons=true&locale=en" alt="dragonliu2018" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonliu2018&" alt="dragonliu2018" /></p>
 
-        
-    </td>
+<div style="text-align: center;">
+  <img src="https://readmestats.999857.xyz/api/top-langs?username=dragonliu2018&show_icons=true&locale=en&layout=compact" alt="Photo 1" style="display: inline-block; width: 50%;">
+  <img src="https://readmestats.999857.xyz/api?username=dragonliu2018&show_icons=true&locale=en" alt="Photo 2" style="display: inline-block; width: 50%;">
+</div>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonliu2018&" alt="dragonliu2018" /></p> -->
+
+</td>
 </tr>
 
 </table>
