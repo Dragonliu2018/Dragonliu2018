@@ -45,14 +45,8 @@
 ### 🎉 Github Actions
 
 <div style="text-align: center;">
-  <img src="https://readmestats.999857.xyz/api/top-langs?username=dragonliu2018&show_icons=true&locale=en&layout=compact" alt="Photo 1" style="display: inline-block; width: 45%;">
-  <img align="right" src="https://readmestats.999857.xyz/api?username=dragonliu2018&show_icons=true&locale=en" alt="Photo 2" style="display: inline-block; width: 50%;">
-</div>
-
-<div style="text-align: center;">
-<img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" style="display: inline-block; width: 22%;" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonliu2018&" style="display: inline-block; width: 50%;" />
-<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" style="display: inline-block; width: 22%;" />
+    <img src="https://readmestats.999857.xyz/api?username=dragonliu2018&show_icons=true&locale=en" alt="Photo 1" style="display: inline-block; width: 50%;">
+    <img align="right" src="https://readmestats.999857.xyz/api/top-langs?username=dragonliu2018&show_icons=true&locale=en&layout=compact" alt="Photo 2" style="display: inline-block; width: 45%;">
 </div>
         
 </td>
