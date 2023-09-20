@@ -9,7 +9,7 @@
 <tr><td>
 
 ### 🙈 About Me
-- 🧑‍💻 I am a first-year graduate student at Beihang University's School of Computer Science.
+- 🧑‍💻 I am a second-year graduate student at Beihang University's School of Computer Science.
 - 🔭 I’m currently working on **database**.
 - 🌱 I’m currently learning **Postgresql**.
 - 📫 How to reach me: **dragonliu2018@gmail.com**
