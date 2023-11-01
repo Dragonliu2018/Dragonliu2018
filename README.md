@@ -10,8 +10,7 @@
 
 ### 🙈 About Me
 - 🧑‍💻 I am a second-year graduate student at Beihang University's School of Computer Science.
-- 🔭 I’m currently working on **database**.
-- 🌱 I’m currently learning **Postgresql**.
+- 🔭 I'm interested in database.
 - 📫 How to reach me: **dragonliu2018@gmail.com**
 <!-- - ⚡ Fun fact: I aspire to become a senior-level developer in database kernel development.
 - 😄 Pronouns: ...
