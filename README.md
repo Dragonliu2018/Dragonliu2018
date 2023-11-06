@@ -4,11 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Dragon Liu.</h1>
 <h3 align="center">A novice in database kernel development.</h3>
+<hr>
+<h2 align="left">🙈 About Me</h2>
 
-<table align="center">
-<tr><td>
-
-### 🙈 About Me
 - 🧑‍💻 I am a second-year graduate student at Beihang University's School of Computer Science.
 - 🔭 I'm interested in database.
 - 📫 How to reach me: **dragonliu2018@gmail.com**
@@ -18,19 +16,12 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-</td></tr>
-    
-<tr>
-<td>
-  
-### 🏢 Work Experience
+<h2 align="left">🏢 Work Experience</h2>
 
 - [ymatrix](https://www.ymatrix.cn/) &emsp; 📌 2023-02 —> now, Beijing, database kernal(vectorized execution engine)
 
 - [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b) &emsp; 📌 2021-09 —> 2021-11, Nanjing, C++
 
-</td>
-</tr>
 <!-- 
 <tr>
     <td>
@@ -44,8 +35,6 @@
         
 </td>
 </tr> -->
-
-</table>
 
 
 
