@@ -18,6 +18,8 @@
 
 <h2 align="left">🏢 Work Experience</h2>
 
+- [ByteDance](https://www.bytedance.com/) 📌 2024-01 —> now, Beijing, database kernal(execution engine)
+
 - [ymatrix](https://www.ymatrix.cn/) &emsp; 📌 2023-02 —> 2023-12, Beijing, database kernal(vectorized execution engine)
 
 - [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b) &emsp; 📌 2021-09 —> 2021-11, Nanjing, C++
