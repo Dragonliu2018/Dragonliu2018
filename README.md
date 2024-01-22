@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-<h2 align="left">🏢 Work Experience</h2>
+<h2 align="left">🏢 Internship Experience</h2>
 
 - [ByteDance](https://www.bytedance.com/) 📌 2024-01 —> now, Beijing, ByteHouse(execution engine)
 
