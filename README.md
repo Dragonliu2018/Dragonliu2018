@@ -18,6 +18,8 @@
 
 <h2 align="left">🏢 Internship Experience</h2>
 
+- [Ant Group](https://www.antgroup.com/) 📌 2024-04 —> Now, OceanBase(SQL)
+
 - [ByteDance](https://www.bytedance.com/) 📌 2024-01 —> 2024-03, Beijing, ByteHouse(clickhouse runtime)
 
 - [YMatrix](https://www.ymatrix.cn/) &emsp; 📌 2023-02 —> 2023-12, Beijing, database kernal(vectorized execution engine)
