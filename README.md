@@ -9,23 +9,13 @@
 
 - 🧑‍💻 I am a second-year graduate student at Beihang University's School of Computer Science.
 - 🔭 I'm interested in database.
+- 🏢 Working as an intern in [Ant Group](https://www.antgroup.com/) OceanBase(SQL) Now. Previously Intern in [ByteDance](https://www.bytedance.com/) ByteHouse, [YMatrix](https://www.ymatrix.cn/), [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b) Carrier Network BG.
 - 📫 How to reach me: **dragonliu2018@gmail.com**
 <!-- - ⚡ Fun fact: I aspire to become a senior-level developer in database kernel development.
 - 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-
-<h2 align="left">🏢 Internship Experience</h2>
-
-- [Ant Group](https://www.antgroup.com/) 📌 2024-04 —> Now, OceanBase(SQL)
-
-- [ByteDance](https://www.bytedance.com/) 📌 2024-01 —> 2024-03, Beijing, ByteHouse(clickhouse runtime)
-
-- [YMatrix](https://www.ymatrix.cn/) &emsp; 📌 2023-02 —> 2023-12, Beijing, database kernal(vectorized execution engine)
-
-- [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b) &emsp; 📌 2021-09 —> 2021-11, Nanjing, C++
-
 <!-- 
 <tr>
     <td>
