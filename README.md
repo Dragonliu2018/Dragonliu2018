@@ -3,7 +3,6 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Dragon Liu.</h1>
-<h3 align="center">A novice in database kernel development.</h3>
 <hr>
 <h2 align="left">🙈 About Me</h2>
 
