@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);Welcome%20to%20my%20Github!&center=true&size=27">
 </h1>
 
-<h1 align="center">Hi 👋, I'm Dragon Liu.</h1>
+<!-- <h1 align="center">Hi 👋, I'm Dragon Liu.</h1> -->
 <hr>
 <h2 align="left">🙈 About Me</h2>
 
