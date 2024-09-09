@@ -8,7 +8,8 @@
 
 - 🧑‍💻 I am a second-year graduate student at Beihang University's School of Computer Science.
 - 🔭 I'm interested in database.
-- 🏢 Working as an intern in [Ant Group](https://www.antgroup.com/) OceanBase(SQL) Now. Previously Intern in [ByteDance](https://www.bytedance.com/) ByteHouse, [YMatrix](https://www.ymatrix.cn/), [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b) Carrier Network BG.
+  <!-- Working as an intern in [Ant Group](https://www.antgroup.com/) OceanBase(SQL) Now. -->
+- 🏢  Previously Intern in Working as an intern in [Ant Group](https://www.antgroup.com/)-(OceanBase-SQL), [ByteDance](https://www.bytedance.com/)-(ByteHouse-Runtime), [YMatrix](https://www.ymatrix.cn/), [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b)-(Carrier Network BG).
 - 📫 How to reach me: **dragonliu2018@gmail.com**
 <!-- - ⚡ Fun fact: I aspire to become a senior-level developer in database kernel development.
 - 😄 Pronouns: ...
