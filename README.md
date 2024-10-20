@@ -6,7 +6,7 @@
 <hr>
 <h2 align="left">🙈 About Me</h2>
 
-- 🧑‍💻 I am a second-year graduate student at Beihang University's School of Computer Science.
+- 🧑‍💻 I am a third-year graduate student at Beihang University's School of Computer Science.
 - 🔭 I'm interested in database.
   <!-- Working as an intern in [Ant Group](https://www.antgroup.com/) OceanBase(SQL) Now. -->
 - 🏢  Previously Intern in [Ant Group](https://www.antgroup.com/)-(OceanBase-SQL), [ByteDance](https://www.bytedance.com/)-(ByteHouse-Runtime), [YMatrix](https://www.ymatrix.cn/), [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b)-(Carrier Network BG).
