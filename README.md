@@ -11,6 +11,7 @@
   <!-- Working as an intern in [Ant Group](https://www.antgroup.com/) OceanBase(SQL) Now. -->
 - 🏢  Previously Intern in [Ant Group](https://www.antgroup.com/)-(OceanBase-SQL), [ByteDance](https://www.bytedance.com/)-(ByteHouse-Runtime), [YMatrix](https://www.ymatrix.cn/), [Huawei](https://www.huawei.com/cn/gallery/photos/facilities/nanjing-research-center-b)-(Carrier Network BG).
 - 📫 How to reach me: **dragonliu2018@gmail.com**
+- Profile picture is Charmander(小火龙 | ヒトカゲ), from https://hk.portal-pokemon.com/play/pokedex/0004 .
 <!-- - ⚡ Fun fact: I aspire to become a senior-level developer in database kernel development.
 - 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
